@@ -1,0 +1,11 @@
+{
+  "nama_lengkap":"Muhammad Nur",
+  "alamat":"Perum Marisa Indah Jl. No 14 Kec. Marisa, Kab. Pohuwato, Prov. Gorontalo",
+  "hoby":[ "Makan", "Minum", "Tidur" ],
+  "menikah":false,
+  "school":{ "SMA":"SMA DDI Pinrang", "Universitas":"Universitas Ichsan Gorontalo"},
+  "skill":[
+            { "Ms word": "95%","Ms Excel":"90%" },
+            { "HTML":"95%", "PHP":"70%"}
+          ]
+}
